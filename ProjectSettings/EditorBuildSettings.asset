@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Scene 1.unity
+    guid: 7e0d0d77ebf014249a16ede128825f3f
+  - enabled: 1
+    path: Assets/Scenes/Scene 2.unity
+    guid: 15888f1042b1d2b4ca150df063264538
+  - enabled: 1
+    path: Assets/Scenes/Scene 3.unity
+    guid: 853b1b5f3e8308248be2c02257aa01af
+  - enabled: 1
+    path: Assets/Scenes/Scene 4.unity
+    guid: 7f2b17e97b0020c48a6636306058136d
+  - enabled: 1
+    path: Assets/Scenes/Scene 5.unity
+    guid: e39426078564cdb4da78ebdd3386e888
+  - enabled: 1
+    path: Assets/Scenes/Scene 6.unity
+    guid: 104e9e028c352094388d3f809ddd4a93
+  - enabled: 1
+    path: Assets/Scenes/Main Page.unity
+    guid: f13f4fc67e93d3746846bd9028ea459a
+  - enabled: 1
+    path: Assets/Scenes/Makeup.unity
+    guid: 5f698f8801c2d1940a9523bd67767063
+  - enabled: 1
+    path: Assets/Scenes/Shoe Decision.unity
+    guid: 12aab479734400647b50e17bc2c56faf
+  - enabled: 1
+    path: Assets/Scenes/Blue Shoes.unity
+    guid: 66fd6678d80943048bf5c5fa14623217
+  - enabled: 1
+    path: Assets/Scenes/Pink Shoes.unity
+    guid: c4ffc98d3cc99e54299b53cc5a721e29
+  - enabled: 1
+    path: Assets/Scenes/Dress Decision.unity
+    guid: fb5bf917e98c7294e94964fbed460e6f
+  - enabled: 1
+    path: Assets/Scenes/Pink Dress.unity
+    guid: f70d2d84cf471d54e8d25323ceb30fd1
+  - enabled: 1
+    path: Assets/Scenes/Blue Dress.unity
+    guid: 5037e5fa460885e4aaa2c6869dd3362d
+  - enabled: 1
+    path: Assets/Scenes/Finish.unity
+    guid: 0a92244061b800a4e8b578bf5013cc38
+  - enabled: 1
+    path: Assets/Scenes/Fitness Gram.unity
+    guid: ab039da7af56b7c479ce500078cd470d
+  - enabled: 1
+    path: Assets/Scenes/Blue Ending.unity
+    guid: bf617dbd4b0dd2542bcbc4784f3e6c94
+  - enabled: 1
+    path: Assets/Scenes/Pink Ending.unity
+    guid: 6bdf1e35cd088a24a83cac466cfdafd9
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
